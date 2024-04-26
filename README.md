@@ -4,3 +4,7 @@ This will also be hosted on my personal website to ensure it's archived.
 https://git.triro.net/gavinx2031/RimPY-Exposed/src/branch/main/Readme.md
 
 USE RIMSORT, SUPPORT OPEN SOURCE DEVELOPMENT
+
+Edit : issue removed.
+web archive : https://web.archive.org/web/20240424080947/https://github.com/rimpy-custom/RimPy/issues/168
+Old archive https://web.archive.org/web/20240325212829/https://github.com/rimpy-custom/RimPy/issues/162
