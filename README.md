@@ -8,3 +8,7 @@ USE RIMSORT, SUPPORT OPEN SOURCE DEVELOPMENT
 Edit : issue removed.
 web archive : https://web.archive.org/web/20240424080947/https://github.com/rimpy-custom/RimPy/issues/168
 Old archive https://web.archive.org/web/20240325212829/https://github.com/rimpy-custom/RimPy/issues/162
+
+This software makes suspcious connections, to random web servers. 
+
+Do not trust this. The developer is Anti open sourced, and he silences those who bring concern.
