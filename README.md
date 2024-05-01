@@ -12,3 +12,4 @@ Old archive https://web.archive.org/web/20240325212829/https://github.com/rimpy-
 This software makes suspcious connections, to random web servers. 
 
 Do not trust this. The developer is Anti open sourced, and he silences those who bring concern.
+Use https://github.com/RimSort/RimSort instead, its a open sourced project that actually cares.
